@@ -5,7 +5,7 @@
 
 #define OF_ADDON_USING_OFXOPENCV
 #define OF_ADDON_USING_OFXVECTORMATH
-//test
+//test wtf???
 #include "ofMain.h"
 #include "ofAddons.h"
 
